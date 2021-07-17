@@ -11,6 +11,12 @@
   <description>Camel Example using Rest DSL with SQL Database in Karaf container</description>
 
   <properties>
+    <property>
+        <name>some-version</name>
+        <value>1.6.2</value>
+    </property>
+</properties>  
+
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
     <!-- configure the versions you want to use here -->
